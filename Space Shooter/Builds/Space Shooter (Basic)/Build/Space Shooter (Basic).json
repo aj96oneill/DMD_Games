@@ -1,0 +1,13 @@
+{
+"companyName": "University of Connecticut - School of Fine Arts - Department of Digital Media and Design | DMD 2542 - Introduction to Scripting - Professor Stefan Lopuszanski",
+"productName": "Project 01: Space Shooter",
+"dataUrl": "Space Shooter (Basic).data.unityweb",
+"wasmCodeUrl": "Space Shooter (Basic).wasm.code.unityweb",
+"wasmFrameworkUrl": "Space Shooter (Basic).wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

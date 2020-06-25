@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{100AE41E-9853-00A1-0814-C759729749EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneLogic.cs" Line="14" Column="46" />
+      <File FileName="Assets/Scripts/AudioController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="24" Column="120" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="240" Column="90" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/SignViewer.cs" />
+      <File FileName="Assets/Scripts/LevelSelectController.cs" />
+      <File FileName="Assets/Scripts/EnemyController.cs" />
+      <File FileName="Assets/Scripts/Bullets.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shield.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SwapTrigger.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Platformer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+              <Node name="Sprites" expanded="True">
+                <Node name="abstract-platformer-370-assets" expanded="True" />
+                <Node name="kenney_platformercharacters" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="64191cb6-901b-455c-891a-622b56588d80" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

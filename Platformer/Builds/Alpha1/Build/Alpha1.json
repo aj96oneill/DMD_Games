@@ -1,0 +1,13 @@
+{
+"companyName": "○\tUniversity of Connecticut - School of Fine Arts - Department of Digital Media and Design ○\tDMD 2542 - Introduction to Scripting - Professor Stefan Lopuszanski ",
+"productName": "Upside Down",
+"dataUrl": "Alpha1.data.unityweb",
+"wasmCodeUrl": "Alpha1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Alpha1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
